@@ -1,0 +1,10 @@
+.item {
+  color: rgb(2, 3, 0);
+  position: static;
+}
+
+.item img {
+  width: 45px;
+  height: 40px;
+  border-radius: 30px;
+}
